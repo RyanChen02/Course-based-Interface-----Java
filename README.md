@@ -1,3 +1,5 @@
-# Java---User-Interface---Coursework
+**Built an ultimate user interface based on course-based projects with different functionalities**
 
-Used three simple classes to generate a user interface Menu to let user click the button visit the functions in the project. 
+• Built different functional interfaces and combined them into the final user interface by clicking different buttons.
+
+•	Small database built to store user data. 
